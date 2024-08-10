@@ -1,4 +1,5 @@
 ##CHECKOUT THE OUTPUT HERE: https://vaishnavibilla07.github.io/weather-predictor/
+<img width="1287" alt="Screenshot 2024-08-10 at 4 23 15 PM" src="https://github.com/user-attachments/assets/a7ef0308-cf4c-4969-b127-74bbf5a05a2b">
 
 # Weather Predictor
 
